@@ -1,2 +1,2 @@
 # Homepage
-This is my personal website: caijunhao.github.io. Go live on August 29, 2021.
+This is my personal website: caijunhao.github.io. Go live on July 24, 2024.
